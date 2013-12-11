@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1386729150 source:c:\users\mario ibarra\documents\examen_3\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<fstream>
+
+1386729150 source:c:\users\mario ibarra\documents\github\examen_3\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<fstream>
+
